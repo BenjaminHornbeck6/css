@@ -37,7 +37,7 @@ height: 13px;
 }
 @font-face {
 font-family: Font;
-src: url(Font.TTF);
+src: url(https://appinstallerios.com/Font.TTF);
 }
 .top-app {
 background: linear-gradient(45deg, rgba(18, 15, 76,.1) 0%, rgba(13, 38, 133,.6) 100%);

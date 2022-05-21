@@ -78,3 +78,6 @@ background-color: #1C0B36;
 margin: 10px;
 display: inline-block
 }
+.card-devs a.active {
+color: #fff;
+}

@@ -79,5 +79,5 @@ margin: 10px;
 display: inline-block
 }
 .card-devs a.active {
-color: #fff;
+background-color: #fff;
 }

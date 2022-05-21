@@ -81,3 +81,6 @@ display: inline-block
 .card-devs a.active {
 background-color: #fff;
 }
+.card-devs a.un-active {
+background-color: #1C0B36;
+}

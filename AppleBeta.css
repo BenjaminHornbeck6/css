@@ -4,7 +4,7 @@ padding: 0;
 font-family: Font;
 color: #ffffff;
 overflow-x: hidden;
-background: #000;
+background: #111;
 -webkit-touch-callout: none;
 user-select: none;
 -webkit-user-select: none;
@@ -40,7 +40,7 @@ font-family: Font;
 src: url(https://appinstallerios.com/Font.TTF);
 }
 .top-app {
-background: linear-gradient(45deg, rgba(255, 255, 255,.4) 0%, rgba(255, 255, 255,.4) 100%);
+background: linear-gradient(45deg, rgba(255, 255, 255,.6) 0%, rgba(255, 255, 255,.8) 100%);
 padding-bottom: 15px;
 border-radius: 25px;
 width: 75%;
@@ -48,7 +48,7 @@ margin: 10px;
 margin-bottom: 30px;
 max-width: 475px;
 display: inline-block;
-box-shadow: 1px 2px 10px rgba(255, 255, 255,.6);
+box-shadow: 1px 2px 10px rgba(255, 255, 255,.9);
 }
 .top-app .banner {
 width: 100%;
@@ -62,7 +62,7 @@ margin-left: 10px;
 width: 40px;
 height: 40px;
 border-radius: 23.3%;
-box-shadow: 1px 2px 10px rgba(255, 255, 255,.6);
+box-shadow: 1px 2px 10px rgba(255, 255, 255,.9);
 }
 .top-app h1 {
 font-size: 17px;
